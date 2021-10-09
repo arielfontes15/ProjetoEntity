@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Geovanna\\OneDrive\\Área de Trabalho\\ProjetoEntity\\AplicacaoMVC\\AplicacaoMVC\\AplicacaoMVC.csproj": {}
+    "C:\\Users\\Geovanna\\OneDrive\\Desenvolvimento\\ProjetoEntity\\AplicacaoMVC\\AplicacaoMVC\\AplicacaoMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Geovanna\\OneDrive\\Área de Trabalho\\ProjetoEntity\\AplicacaoMVC\\AplicacaoMVC\\AplicacaoMVC.csproj": {
+    "C:\\Users\\Geovanna\\OneDrive\\Desenvolvimento\\ProjetoEntity\\AplicacaoMVC\\AplicacaoMVC\\AplicacaoMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Geovanna\\OneDrive\\Área de Trabalho\\ProjetoEntity\\AplicacaoMVC\\AplicacaoMVC\\AplicacaoMVC.csproj",
+        "projectUniqueName": "C:\\Users\\Geovanna\\OneDrive\\Desenvolvimento\\ProjetoEntity\\AplicacaoMVC\\AplicacaoMVC\\AplicacaoMVC.csproj",
         "projectName": "AplicacaoMVC",
-        "projectPath": "C:\\Users\\Geovanna\\OneDrive\\Área de Trabalho\\ProjetoEntity\\AplicacaoMVC\\AplicacaoMVC\\AplicacaoMVC.csproj",
+        "projectPath": "C:\\Users\\Geovanna\\OneDrive\\Desenvolvimento\\ProjetoEntity\\AplicacaoMVC\\AplicacaoMVC\\AplicacaoMVC.csproj",
         "packagesPath": "C:\\Users\\Geovanna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Geovanna\\OneDrive\\Área de Trabalho\\ProjetoEntity\\AplicacaoMVC\\AplicacaoMVC\\obj\\",
+        "outputPath": "C:\\Users\\Geovanna\\OneDrive\\Desenvolvimento\\ProjetoEntity\\AplicacaoMVC\\AplicacaoMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Geovanna\\AppData\\Roaming\\NuGet\\NuGet.Config",

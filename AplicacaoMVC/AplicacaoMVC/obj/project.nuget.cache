@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e/q105Rt2vdnh7PoukWVrIet+qwn4nIb/dhgk7PDKz8YE1VANS2gTbMPFpNwJCBRwkGDB+Nm7rnGN2Ns2jWEyA==",
+  "dgSpecHash": "aVeDiAoyIjH7N5wkeoY9Hy1Xh/6kaJVJa5Ay8sXvgbI9qev01Oqp0Wq/Wc0qsIz+8zkVcvnQ6N8libSfsy8x7Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Geovanna\\OneDrive\\Área de Trabalho\\ProjetoEntity\\AplicacaoMVC\\AplicacaoMVC\\AplicacaoMVC.csproj",
+  "projectFilePath": "C:\\Users\\Geovanna\\OneDrive\\Desenvolvimento\\ProjetoEntity\\AplicacaoMVC\\AplicacaoMVC\\AplicacaoMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Geovanna\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Geovanna\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
