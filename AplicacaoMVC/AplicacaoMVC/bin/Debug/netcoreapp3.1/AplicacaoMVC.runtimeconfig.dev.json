@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Geovanna\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Geovanna\\.nuget\\packages"
+    ]
+  }
+}
