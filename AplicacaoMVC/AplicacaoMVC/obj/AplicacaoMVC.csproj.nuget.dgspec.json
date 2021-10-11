@@ -1,28 +1,37 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Geovanna\\OneDrive\\Desenvolvimento\\ProjetoEntity\\AplicacaoMVC\\AplicacaoMVC\\AplicacaoMVC.csproj": {}
+    "C:\\Users\\HDTEC DESENV\\OneDrive\\Ambiente de Trabalho\\ProjetoPOO\\ProjetoEntity\\AplicacaoMVC\\AplicacaoMVC\\AplicacaoMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Geovanna\\OneDrive\\Desenvolvimento\\ProjetoEntity\\AplicacaoMVC\\AplicacaoMVC\\AplicacaoMVC.csproj": {
+    "C:\\Users\\HDTEC DESENV\\OneDrive\\Ambiente de Trabalho\\ProjetoPOO\\ProjetoEntity\\AplicacaoMVC\\AplicacaoMVC\\AplicacaoMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Geovanna\\OneDrive\\Desenvolvimento\\ProjetoEntity\\AplicacaoMVC\\AplicacaoMVC\\AplicacaoMVC.csproj",
+        "projectUniqueName": "C:\\Users\\HDTEC DESENV\\OneDrive\\Ambiente de Trabalho\\ProjetoPOO\\ProjetoEntity\\AplicacaoMVC\\AplicacaoMVC\\AplicacaoMVC.csproj",
         "projectName": "AplicacaoMVC",
-        "projectPath": "C:\\Users\\Geovanna\\OneDrive\\Desenvolvimento\\ProjetoEntity\\AplicacaoMVC\\AplicacaoMVC\\AplicacaoMVC.csproj",
-        "packagesPath": "C:\\Users\\Geovanna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Geovanna\\OneDrive\\Desenvolvimento\\ProjetoEntity\\AplicacaoMVC\\AplicacaoMVC\\obj\\",
+        "projectPath": "C:\\Users\\HDTEC DESENV\\OneDrive\\Ambiente de Trabalho\\ProjetoPOO\\ProjetoEntity\\AplicacaoMVC\\AplicacaoMVC\\AplicacaoMVC.csproj",
+        "packagesPath": "C:\\Users\\HDTEC DESENV\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HDTEC DESENV\\OneDrive\\Ambiente de Trabalho\\ProjetoPOO\\ProjetoEntity\\AplicacaoMVC\\AplicacaoMVC\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Geovanna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HDTEC DESENV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\DevExpress 20.2\\DevExtreme\\System\\DevExtreme\\Bin\\AspNetCore": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/hdtec/_packaging/hdtec/nuget/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -48,7 +57,7 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.19, )"
+              "version": "[5.0.10, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
@@ -73,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

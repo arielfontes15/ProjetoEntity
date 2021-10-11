@@ -1,8 +1,10 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\Geovanna\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Geovanna\\.nuget\\packages"
+      "C:\\Users\\HDTEC DESENV\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\HDTEC DESENV\\.nuget\\packages",
+      "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
+      "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ]
   }
 }
