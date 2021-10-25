@@ -328,7 +328,6 @@ C:\Users\HDTEC DESENV\OneDrive\Ambiente de Trabalho\ProjetoPOO\ProjetoEntity\Apl
 C:\Users\HDTEC DESENV\OneDrive\Ambiente de Trabalho\ProjetoPOO\ProjetoEntity\AplicacaoMVC\AplicacaoMVC\bin\Debug\netcoreapp3.1\AplicacaoMVC.pdb
 C:\Users\HDTEC DESENV\OneDrive\Ambiente de Trabalho\ProjetoPOO\ProjetoEntity\AplicacaoMVC\AplicacaoMVC\bin\Debug\netcoreapp3.1\AplicacaoMVC.Views.dll
 C:\Users\HDTEC DESENV\OneDrive\Ambiente de Trabalho\ProjetoPOO\ProjetoEntity\AplicacaoMVC\AplicacaoMVC\bin\Debug\netcoreapp3.1\AplicacaoMVC.Views.pdb
-C:\Users\HDTEC DESENV\OneDrive\Ambiente de Trabalho\ProjetoPOO\ProjetoEntity\AplicacaoMVC\AplicacaoMVC\bin\Debug\netcoreapp3.1\Humanizer.dll
 C:\Users\HDTEC DESENV\OneDrive\Ambiente de Trabalho\ProjetoPOO\ProjetoEntity\AplicacaoMVC\AplicacaoMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\HDTEC DESENV\OneDrive\Ambiente de Trabalho\ProjetoPOO\ProjetoEntity\AplicacaoMVC\AplicacaoMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
 C:\Users\HDTEC DESENV\OneDrive\Ambiente de Trabalho\ProjetoPOO\ProjetoEntity\AplicacaoMVC\AplicacaoMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
@@ -367,7 +366,6 @@ C:\Users\HDTEC DESENV\OneDrive\Ambiente de Trabalho\ProjetoPOO\ProjetoEntity\Apl
 C:\Users\HDTEC DESENV\OneDrive\Ambiente de Trabalho\ProjetoPOO\ProjetoEntity\AplicacaoMVC\AplicacaoMVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\HDTEC DESENV\OneDrive\Ambiente de Trabalho\ProjetoPOO\ProjetoEntity\AplicacaoMVC\AplicacaoMVC\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
 C:\Users\HDTEC DESENV\OneDrive\Ambiente de Trabalho\ProjetoPOO\ProjetoEntity\AplicacaoMVC\AplicacaoMVC\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
-C:\Users\HDTEC DESENV\OneDrive\Ambiente de Trabalho\ProjetoPOO\ProjetoEntity\AplicacaoMVC\AplicacaoMVC\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
 C:\Users\HDTEC DESENV\OneDrive\Ambiente de Trabalho\ProjetoPOO\ProjetoEntity\AplicacaoMVC\AplicacaoMVC\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
 C:\Users\HDTEC DESENV\OneDrive\Ambiente de Trabalho\ProjetoPOO\ProjetoEntity\AplicacaoMVC\AplicacaoMVC\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
 C:\Users\HDTEC DESENV\OneDrive\Ambiente de Trabalho\ProjetoPOO\ProjetoEntity\AplicacaoMVC\AplicacaoMVC\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
@@ -476,3 +474,7 @@ C:\Users\HDTEC DESENV\OneDrive\Ambiente de Trabalho\ProjetoPOO\ProjetoEntity\Apl
 C:\Users\HDTEC DESENV\OneDrive\Ambiente de Trabalho\ProjetoPOO\ProjetoEntity\AplicacaoMVC\AplicacaoMVC\obj\Debug\netcoreapp3.1\AplicacaoMVC.pdb
 C:\Users\HDTEC DESENV\OneDrive\Ambiente de Trabalho\ProjetoPOO\ProjetoEntity\AplicacaoMVC\AplicacaoMVC\obj\Debug\netcoreapp3.1\AplicacaoMVC.genruntimeconfig.cache
 C:\Users\HDTEC DESENV\OneDrive\Ambiente de Trabalho\ProjetoPOO\ProjetoEntity\AplicacaoMVC\AplicacaoMVC\obj\Debug\netcoreapp3.1\AplicacaoMVC.csproj.AssemblyReference.cache
+C:\Users\HDTEC DESENV\OneDrive\Ambiente de Trabalho\ProjetoPOO\ProjetoEntity\AplicacaoMVC\AplicacaoMVC\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HDTEC DESENV\OneDrive\Ambiente de Trabalho\ProjetoPOO\ProjetoEntity\AplicacaoMVC\AplicacaoMVC\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\HDTEC DESENV\OneDrive\Ambiente de Trabalho\ProjetoPOO\ProjetoEntity\AplicacaoMVC\AplicacaoMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\HDTEC DESENV\OneDrive\Ambiente de Trabalho\ProjetoPOO\ProjetoEntity\AplicacaoMVC\AplicacaoMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll

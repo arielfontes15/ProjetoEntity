@@ -1,5 +1,4 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using System;
 
 namespace AplicacaoMVC.Models
 {
@@ -13,10 +12,5 @@ namespace AplicacaoMVC.Models
         {
             optionsBuilder.UseSqlServer(connectionString:@"Server=(local)\SQLEXPRESS;Database=AplicacaoMVC;Integrated Security = True;MultipleActiveResultSets=true");
         }
-
-        //public void SetModified(object entity)
-        //{
-        //    Entry(entity).State = EntityState.Modified;
-        //}
     }
 }
